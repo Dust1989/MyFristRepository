@@ -21,4 +21,4 @@ print(kobe.age)
 print(kobe.num)
 
 
->>>>>>> 431c85092e7b7452f2d45d18a3a0e736e9bb94f5
+
